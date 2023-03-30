@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(270, 240, 240);
+    color : green;
+   }
+   h1, h2, h3, h4 {
+       font-family: 'Lora', sans serif;
+   }
+   h1 {
+       color : blue;
+       font-weight:80;
+       font-size: 20pt
+   }
+   h3 {
+     font-size: 18pt
+   }
+   .img-circle {
+       border radius: 50%;
+   }
+   
+   div {
+       background: white
+       border: 2px solid white
+       margin: 10px
+   }
